@@ -1,16 +1,20 @@
-## meu nome é francisco    👋
+# meu nome é francisco    👋
 
-<!--
-**ffacchi/ffacchi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://img.shields.io/static/v1?label=ff&message=student&color=2d2d2d&style=for-the-badge&logo=GitHub">
+
+**Oq estou aprendendo**
+
+- estou aprendendo programaçâo
+
+- tambem estou aprendendo inglês
+<br/><br/>
+
+**Oq gosto de fazer**
+
+- gosto de [Read Dead Redempition 2](https://store.steampowered.com/app/1174180/Red_Dead_Redemption_2/)
+
+- instagram Francisco Facchi
+
+
